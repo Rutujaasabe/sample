@@ -1,0 +1,2 @@
+# sample
+Studying git 
